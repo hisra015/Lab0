@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-Kian
-=======
-<<<<<<< HEAD
-Tamara Micic
-=======
-Hamza Israr
->>>>>>> 9d1808c47e4bc59b251b68a3ed7f93a862b49588
->>>>>>> 1ffde39a84395ec8ffaf6655f91d7d1166123fb1
+Teodora
